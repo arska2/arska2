@@ -1,5 +1,19 @@
-### Hi there 👋
-I'm a curiosity-driven tech enthusiast who is always eager to learn new things and take on new challenges. With a passion for problem-solving and a commitment to delivering high-quality work, I strive to put everything I am into even the smallest things I do.
+# Hi there 👋
+
+## 🥜 All about me in a nutshell
+- 🚀Curios and always eager to learn more
+- 🌐Developing my web development skills
+- 🎮Spending my spare time building small games
+
+📫 **Contact Me**:  
+Feel free to reach out if you have any questions, project ideas, or just want to chat!  
+You can find me on LinkedIn or send me a message.   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)]([https://www.linkedin.com/in/YourName/](https://www.linkedin.com/in/aarni-seppanen/))
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&labelColor=white)](mailto:aarni.seppanen@gmail.com)
+
+
+
+
 ## 🔧 Technologies & Tools
 
 <p>Some of the technologies and tools I work with include </p>
@@ -20,3 +34,4 @@ I'm a curiosity-driven tech enthusiast who is always eager to learn new things a
 [<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="50"/>](https://aws.amazon.com/) AWS
 [<img src="https://img.icons8.com/color/48/000000/heroku.png" height="50"/>](https://www.heroku.com/) Heroku
 ---
+
