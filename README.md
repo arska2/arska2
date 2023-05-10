@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 🥜 All about me in a nutshell
-- 🚀Curios and always eager to learn more
+- 🚀Curious and always eager to learn more
 - 🌐Developing my web development skills
 - 🎮Spending my spare time building small games
 
