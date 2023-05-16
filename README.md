@@ -19,20 +19,43 @@ You can find me on LinkedIn or send me a message.
 <p>Some of the technologies and tools I work with include </p>
 
 
-[<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" height="50"/>](https://www.java.com/) Java
-[<img src="https://img.icons8.com/color/48/000000/python.png" height="50"/>](https://www.python.org/) Python
-[<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="50"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript
----
+<table>
+<tbody>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="50px"></td>
+     <td><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" height="50px"></td>
+     <td><img src="https://img.icons8.com/color/48/000000/python.png" height="50px"></td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td>Java</td>
+    <td>Python</td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/react-native.png" height="50px"></td>
+     <td><img src="https://nodejs.org/static/images/logo-hexagon-card.png" height="50px"></td>
+     <td><img src="https://spring.io/img/spring.svg" height="50px"></td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>Node.js</td>
+    <td>Spring Boot</td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="50px"></td>
+     <td><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="50px"></td>
+     <td><img src="https://img.icons8.com/color/48/000000/heroku.png" height="50px"></td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td>AWS</td>
+    <td>Heroku</td>
+  </tr>
+</tbody>
+</table>
 
-[<img src="https://spring.io/img/spring.svg" height="50"/>](https://spring.io/) Spring Boot
-[<img src="https://img.icons8.com/color/48/000000/react-native.png" height="50"/>](https://reactjs.org/) React
-[<img src="https://nodejs.org/static/images/logo-hexagon-card.png" height="50"/>](https://nodejs.org/) Node.js
----
-[<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="50"/>](https://www.mysql.com/) MySQL
-[<img src="https://img.icons8.com/color/48/000000/mongodb.png" height="50"/>](https://www.mongodb.com/) MongoDB
----
-[<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="50"/>](https://aws.amazon.com/) AWS
-[<img src="https://img.icons8.com/color/48/000000/heroku.png" height="50"/>](https://www.heroku.com/) Heroku
 ---
 
 ## 🌟 Projects
