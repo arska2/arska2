@@ -42,8 +42,12 @@ Below are some of the projects I have worked on:
 ### TaskRabbit  
 Repository: [https://github.com/arska2/TaskRabbit](https://github.com/arska2/TaskRabbit)  
 Collaborative task management platform developed in 8 days by a team of four. I played a role in all aspects of development, with a primary focus on implementing Google Maps functionality, User Profiles and setting up AWS cloud infrastructure.
-<img src="https://github.com/arska2/TaskRabbit/blob/main/images/taskrabbit_home.png" height="400"/>
+<img src="https://github.com/arska2/TaskRabbit/blob/main/images/taskrabbit_home.png" width="800"/>
 
-
+### MegaMayhem
+Repository: [https://github.com/arska2/megamayhem](https://github.com/arska2/megamayhem)  
+Front-end: https://supermegabattle.netlify.app/ (Heroku server sleeps if not used, so refresh the page a few times if nothing is visible to wake it up)  
+MegaMayhem is a multiplayer arcade game where players engage in intense battles and compete in various scenarios, developed by me.
+<img src="https://github.com/arska2/megamayhem/blob/main/frontend/screenshot3.png" width="800"/>
 
 
