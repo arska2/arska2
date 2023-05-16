@@ -35,3 +35,15 @@ You can find me on LinkedIn or send me a message.
 [<img src="https://img.icons8.com/color/48/000000/heroku.png" height="50"/>](https://www.heroku.com/) Heroku
 ---
 
+## 🌟 Projects
+
+Below are some of the projects I have worked on:
+
+### TaskRabbit  
+Repository: [https://github.com/arska2/TaskRabbit](https://github.com/arska2/TaskRabbit)  
+Collaborative task management platform developed in 8 days by a team of four. I played a role in all aspects of development, with a primary focus on implementing Google Maps functionality, User Profiles and setting up AWS cloud infrastructure.
+<img src="https://github.com/arska2/TaskRabbit/blob/main/images/taskrabbit_home.png" height="400"/>
+
+
+
+
