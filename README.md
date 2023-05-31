@@ -62,6 +62,12 @@ You can find me on LinkedIn or send me a message.
 
 Below are some of the projects I have worked on:
 
+### WebCenter  
+Repository: [https://github.com/arska2/web-collections](https://github.com/arska2/web-collections)  
+WebCenter is a user-friendly web app for storing, searching, and managing website bookmarks, with automated screenshot capturing, powered by Java Spring Boot and React, and hosted on Heroku.  
+🔗Link: [https://web-center.herokuapp.com/](https://web-center.herokuapp.com/)  
+<img src="https://github.com/arska2/web-collections/blob/main/webcenter_screenshot1.png" width="800"/>
+ 
 ### TaskRabbit  
 Repository: [https://github.com/arska2/TaskRabbit](https://github.com/arska2/TaskRabbit)  
 Collaborative task management platform developed in 8 days by a team of four. I played a role in all aspects of development, with a primary focus on implementing Google Maps functionality, User Profiles and setting up AWS cloud infrastructure.
